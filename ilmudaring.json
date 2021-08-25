@@ -1,0 +1,38 @@
+﻿{
+  "name": "ilmudaring",
+  "short_name": "ilmudaring",
+  "start_url": "https://www.ilmudaring.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1cd8d2",
+  "description": "Ilmudaring adalah sebuah web atau aplikasi informasi yang bertujuan untuk mencerdaskan anak bangsa.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s48/logo%2Bid.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s72/logo%2Bid.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s96/logo%2Bid.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s144/logo%2Bid.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s168/logo%2Bid.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s192/logo%2Bid.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BhN5dmYUn7A/YSZZdP4IcDI/AAAAAAAAAho/YO3JSLlKKIMu1LJb4X6gQpslL7sR51h_QCNcBGAsYHQ/s512/logo%2Bid.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
